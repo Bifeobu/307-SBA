@@ -2,22 +2,26 @@ body {
     background-color: seagreen;
 }
 .login-box {
-    background-color: gray;
+    position: relative;
+    background-color:skyblue;
     width: 200px;
     height: 300px;
     border: 1px solid black;
+    padding: 20px;
+    text-align: center;
 }
 .create-login {
-    background-color: gray;
+    position: relative;
+    left: 300px;
+    bottom: 342px;
+    background-color:dodgerblue;
     width: 200px;
     height: 300px;
     border: 1px solid black;
+    padding: 20px;
+    text-align: center;
 }
-.login-box form input {
+/* .login-box form input {
     align-content: center;
     
-}
-.title {
-    text-align: center;
-    text-wrap: wrap;
-}
+} */
