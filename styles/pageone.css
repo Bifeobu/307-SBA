@@ -1,11 +1,14 @@
+body {
+    background-color: seagreen;
+}
 .login-box {
-    background-color: aquamarine;
+    background-color: gray;
     width: 200px;
     height: 300px;
     border: 1px solid black;
 }
 .create-login {
-    background-color: crimson;
+    background-color: gray;
     width: 200px;
     height: 300px;
     border: 1px solid black;
@@ -13,4 +16,8 @@
 .login-box form input {
     align-content: center;
     
+}
+.title {
+    text-align: center;
+    text-wrap: wrap;
 }
