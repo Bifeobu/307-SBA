@@ -1,6 +1,10 @@
 body {
     background-color: seagreen;
 }
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
 .login-box {
     position: relative;
     background-color:skyblue;
