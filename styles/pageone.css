@@ -1,12 +1,16 @@
 .login-box {
     background-color: aquamarine;
-    width: 400px;
-    height: 500px;
-    border: 1px solid pink:
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
 }
 .create-login {
     background-color: crimson;
-    width: 400px;
-    height: 500px;
-    border: 1px solid pink;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}
+.login-box form input {
+    align-content: center;
+    
 }
