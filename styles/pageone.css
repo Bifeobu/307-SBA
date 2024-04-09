@@ -5,6 +5,10 @@ h1 {
     text-align: center;
     color: aliceblue;
 }
+pre {
+    text-align: center;
+    color: aliceblue;
+}
 .login-box {
     position: relative;
     background-color:skyblue;
@@ -29,3 +33,7 @@ h1 {
     align-content: center;
     
 } */
+.goods {
+    position: relative;
+    left: 150px;
+}
